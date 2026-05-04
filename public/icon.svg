@@ -1,9 +1,22 @@
-<svg width="640" height="640" viewBox="0 0 640 640" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
-<g transform="matrix(1 0 0 1 320 320)">
-<linearGradient id="S3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -319.99875 -320.0001577393)"  x1="259.78" y1="261.15" x2="463.85" y2="456.49">
-<stop stop-color="#5CDD8B"/>
-<stop offset="1" stop-color="#86E6A9"/>
-</linearGradient>
-<path style="stroke: rgb(242,242,242); stroke-opacity: 0.51; stroke-width: 200; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#S3); fill-rule: nonzero; opacity: 1;"  transform=" translate(0, 0)" d="M 170.40125 -84.36016 C 224.09125 38.37984 224.09125 115.33984 170.40125 146.49984 C 89.85125000000001 193.23984000000002 -120.03875 207.48984000000002 -180.45875 135.63984 C -220.73875 87.73983999999999 -220.73875 14.399839999999998 -180.45875 -84.36016000000001 C -139.49875 -151.82016 -81.28875000000001 -185.55016 -5.828750000000014 -185.55016 C 69.64124999999999 -185.55016 128.38125 -151.82016000000002 170.40124999999998 -84.36016000000001 z" stroke-linecap="round" />
-</g>
+<svg width="512" height="512" viewBox="0 0 55 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="55" height="42" fill="#1a1a2e"/>
+  <g clip-path="url(#clip0)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 17.7955C0 3.91936 7.75189 0.945312 27.2527 0.945312C46.7536 0.945312 54.5055 3.91936 54.5055 17.7955C54.5055 28.3328 50.0002 32.5833 39.3189 34.0186C39.3189 34.0186 36.7609 27.653 38.804 26.9093C44.0011 26.1346 46.9958 23.7689 46.9958 17.7955C46.9958 10.0248 41.928 8.35937 33.5366 8.35937H20.9689C12.5775 8.35937 7.50964 10.0248 7.50964 17.7955C7.50964 25.5661 12.5775 27.2315 20.9689 27.2315H27.2527H31.6684H31.7173C32.0983 27.2315 32.4146 27.5258 32.4421 27.9058L32.8505 33.5439C32.89 34.0895 32.4704 34.56 31.9236 34.5774C30.4478 34.6245 28.8916 34.6456 27.2527 34.6456C7.81245 34.6456 0 31.6715 0 17.7955Z" fill="url(#paint0_diamond)"/>
+    <path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M54.5085 17.7812C54.5085 17.7859 54.5085 17.7906 54.5085 17.7953C54.5085 28.3326 50.0033 32.5831 39.3219 34.0184C39.3219 34.0184 36.764 27.6528 38.807 26.9091C44.0041 26.1344 46.9989 23.7687 46.9989 17.7953C46.9989 17.7906 46.9989 17.7859 46.9989 17.7812H54.5085Z" fill="url(#paint1_linear)"/>
+    <path d="M34.8234 34.0839C34.4789 32.9028 38.2299 27.4209 38.2761 27.3533C38.2776 27.3512 38.2773 27.3516 38.2787 27.3495C38.3998 27.1689 38.5807 26.9889 38.8072 26.9113C38.0949 27.171 38.8709 28.0751 38.8709 28.0751L45.9116 35.0051C46.308 35.3953 46.3041 36.0295 45.9031 36.4L41.5659 40.4067C41.1843 40.7591 40.5866 40.7419 40.218 40.3624C38.7032 38.8029 35.0966 35.0208 34.8234 34.0839Z" fill="#0BCE88"/>
+  </g>
+  <defs>
+    <radialGradient id="paint0_diamond" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(67.6474 39.6445) rotate(-149.234) scale(78.7273 98.3372)">
+      <stop stop-color="#36B084"/>
+      <stop offset="0.693684" stop-color="#0BCE88"/>
+      <stop offset="1" stop-color="#44E97C"/>
+    </radialGradient>
+    <linearGradient id="paint1_linear" x1="38.0357" y1="34.0118" x2="53.8157" y2="25.7482" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0.5"/>
+      <stop offset="0.800333" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip0">
+      <rect width="55" height="42" fill="white"/>
+    </clipPath>
+  </defs>
 </svg>
